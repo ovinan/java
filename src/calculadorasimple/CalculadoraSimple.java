@@ -46,11 +46,11 @@ public class CalculadoraSimple {
     }
     
      /**
-     * @param args the command line arguments
+     * @param args Argumentos (parametros) de la linea de comandos
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // Cambio del codigo
+        System.out.println("Ejecutando la calculadora simple");
     }
     
 }
